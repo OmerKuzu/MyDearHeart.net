@@ -1,0 +1,57 @@
+body{
+  background-image: linear-gradient(to right, rgb(255, 145, 0) , rgb(255, 145, 0));
+}
+
+.bg-body-tertiary{
+  background-image: linear-gradient(to right, rgb(0, 195, 255) , rgb(26, 76, 133));
+}
+#carouselExampleInterval{
+  width: 60%;
+  margin: 1% auto;
+}
+.carousel-inner .carousel-item img {
+    width: 100%;
+  }
+  .nav-logo{
+    width: 5%;
+  }
+  .nav-item{
+    padding: 20px;
+    padding-left: 30%;
+    font-size: 120%;
+    font-weight:800;
+  }
+
+.footer{
+  background-color: rgb(189, 216, 221);
+  margin-top: 1%;
+  padding: 2%;
+  text-align:center
+}
+.main-yazi{
+  background-color: rgb(216, 89, 15);
+  color: rgb(248, 224, 197);
+  margin-top: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 400;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+.görsel-yazi{
+  text-align: center;
+  font-size: 90%;
+  
+}
+.btn-lg{
+  size: 6000px;
+}
+
+.indir-main{
+  padding-top: 20px;
+  background-color: antiquewhite;
+  width: 100%;
+  height: 130px;
+  margin-top: 15%;
+  text-align: center;
+}
